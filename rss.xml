@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RadShacks]]></title>
+        <description><![CDATA[RadShacks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 23:42:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rad Shacks]]></title>
+            <description><![CDATA[<article><h1>Rad Shacks</h1><h2>Curated Accommodations For The Way Out There</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76ff8d861aaeb481ff8dd005998efe42d8e1fb23.jpg"></article>]]></description>
+            <link>undefinedrad-shacks/index.html</link>
+            <guid isPermaLink="false">403cbe24-d529-4fbc-a564-6ae83eddd3e6</guid>
+            <pubDate>Thu, 19 May 2016 23:42:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
