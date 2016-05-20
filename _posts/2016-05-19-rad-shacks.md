@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Prepared For Your Arrival
-datePublished: '2016-05-20T18:11:04.733Z'
-dateModified: '2016-05-20T18:09:03.747Z'
-title: 'Curated Accommodations '
+datePublished: '2016-05-20T18:16:00.223Z'
+dateModified: '2016-05-20T18:14:45.635Z'
+title: ''
 author: []
 sourcePath: _posts/2016-05-19-rad-shacks.md
 authors: []
@@ -17,8 +17,6 @@ url: rad-shacks/index.html
 _type: Article
 
 ---
-## Curated Accommodations 
-
 # For The Way Out There
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34199c80-9132-4629-a9cc-671b5690b930.jpg)
 
