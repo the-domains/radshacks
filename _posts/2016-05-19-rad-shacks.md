@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Prepared For Your Arrival
-datePublished: '2016-05-20T00:08:24.145Z'
-dateModified: '2016-05-20T00:07:52.133Z'
+datePublished: '2016-05-20T16:59:47.201Z'
+dateModified: '2016-05-20T00:08:28.548Z'
 title: 'Curated Accommodations '
 author: []
 sourcePath: _posts/2016-05-19-rad-shacks.md
