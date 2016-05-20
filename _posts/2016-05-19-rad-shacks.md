@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Prepared For Your Arrival
-datePublished: '2016-05-20T19:09:06.175Z'
-dateModified: '2016-05-20T19:08:23.099Z'
+datePublished: '2016-05-20T19:15:25.782Z'
+dateModified: '2016-05-20T19:15:12.619Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-rad-shacks.md
