@@ -2,6 +2,7 @@ name: RadShacks
 favicon: null
 layout_spectrum: 0.6000359544996172
 typography_spectrum: 0
+title: RadShacks
 cta:
   domain: null
   bucket: null
