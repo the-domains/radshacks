@@ -1,6 +1,6 @@
 name: RadShacks
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.57904
 typography_spectrum: 0.08115
 title: RadShacks
 cta:
@@ -22,7 +22,7 @@ color:
     - '#adbbbc'
     - '#222a26'
     - '#405051'
-  brandStrength: 0.75
+  brandStrength: 0.8125
   lightness: 0.6875
   saturation: 0
   rhythmicContrast: 0.75
