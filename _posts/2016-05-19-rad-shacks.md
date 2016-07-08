@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Prepared For Your Arrival
-datePublished: '2016-05-20T19:15:25.782Z'
-dateModified: '2016-05-20T19:15:12.619Z'
-title: ''
+description: ''
+datePublished: '2016-07-08T02:09:07.940Z'
+dateModified: '2016-07-08T02:06:53.135Z'
+title: For The Way Out There
 author: []
 sourcePath: _posts/2016-05-19-rad-shacks.md
 authors: []
@@ -19,8 +19,6 @@ _type: Article
 ---
 # For The Way Out There
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34199c80-9132-4629-a9cc-671b5690b930.jpg)
-
-Prepared For Your Arrival
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4473b675-d7bc-443b-b29b-5b121bdafa99.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d102798-df6d-4836-9b7a-2c0ae77f98f2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e351dd2-515a-4e84-903d-6fbb95066f92.jpg)
