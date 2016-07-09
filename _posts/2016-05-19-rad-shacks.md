@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-08T02:09:07.940Z'
-dateModified: '2016-07-08T02:06:53.135Z'
+datePublished: '2016-07-09T13:53:38.774Z'
+dateModified: '2016-07-09T13:53:15.556Z'
 title: For The Way Out There
 author: []
 sourcePath: _posts/2016-05-19-rad-shacks.md
